@@ -1,13 +1,11 @@
-# Pas2JS-VSCode README
+# Pas2JS-VSCode
+
+Manage your **Pas2JS** Project/Code with Visual Studio Code. 
 
 <p align="center"> 
   <a title="Learn more about Pascal" href="https://github.com/heliosroots/pas2js-vscode">
     <img src="https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/icon.png?token=AAMI5XB5CQHNEXOV3TLAJ4DACCED6" alt="Logo" height=256px width="256px" /></a>
 </p>
-
-images/icon.png
-
-Manage your **Pas2JS** Project/Code with Visual Studio Code. 
 
 <br>
 
@@ -36,7 +34,7 @@ Pas2JS: https://wiki.freepascal.org/pas2js#Daily_Snapshots
 
 ## Donating
 
-<div>
+<div align="center"> 
   <a title="Paypal" href="https://www.paypal.com/donate?business=VCWLMY6L2ER7A&currency_code=USD">
      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif"/>
   </a>
