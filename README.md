@@ -2,8 +2,8 @@
 
 <p align="center"> 
   <a title="Learn more about Pascal" href="https://github.com/heliosroots/pas2js-vscode">
-    <img src="https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/icon.png?token=AAMI5XHDOOJ5JP4N5UNQ4X3ACCC4W" alt="Pascal Logo" height=256px width="256px" /></a>
-</p> 
+    <img src="https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/icon.png?token=AAMI5XB5CQHNEXOV3TLAJ4DACCED6" alt="Logo" height=256px width="256px" /></a>
+</p>
 
 images/icon.png
 
