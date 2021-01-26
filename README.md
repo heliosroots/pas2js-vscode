@@ -1,6 +1,6 @@
 # Pas2JS-VSCode
 
-## Manage your **Pas2JS** Project/Code with Visual Studio Code. 
+### Manage your **Pas2JS** Project/Code with Visual Studio Code. 
 
 <p> 
   <a title="Learn more about Pascal" href="https://github.com/heliosroots/pas2js-vscode">
@@ -21,14 +21,10 @@
 * Syntax Coloring
 * Diagnostics
 
-<br>
-
 ## Dependencies 
 CodeTools: https://drive.google.com/file/d/1QFvKgiUyOqOKpzsDvu4N801cYAdPiV-p/view?usp=sharing
 
 Pas2JS: https://wiki.freepascal.org/pas2js#Daily_Snapshots
-
-<br>
 
 ## Donating
 
@@ -38,14 +34,10 @@ Pas2JS: https://wiki.freepascal.org/pas2js#Daily_Snapshots
   </a>
 </div>  
 
-<br> 
-
 ## Credits 
 Pas2JS team: https://wiki.freepascal.org/pas2js
 
 Parmaja: https://github.com/parmaja/cliparts 
-
-<br>
 
 ## License
 
