@@ -4,7 +4,7 @@
 
 <p> 
   <a title="Learn more about Pascal" href="https://github.com/heliosroots/pas2js-vscode">
-    <img src="https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/icon.png?token=AAMI5XB4XAKLJICWVLVYFDLACCFFO" alt="Logo" height=256px width="256px" /></a>
+    <img src="https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/icon.png" alt="Logo" height=256px width="256px" /></a>
 </p>
 
 ## Features
