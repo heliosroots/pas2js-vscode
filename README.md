@@ -1,11 +1,15 @@
 # Pas2JS-VSCode README
 
 <p align="center"> 
-  <a title="Learn more about Pascal" href="">
-    <img src="https://github.com/heliosroots/pas2js-vscode/images/icon.png" alt="Pascal Logo" width="50%" /></a>
-</p>
+  <a title="Learn more about Pascal" href="https://github.com/heliosroots/pas2js-vscode">
+    <img src="https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/icon.png?token=AAMI5XHDOOJ5JP4N5UNQ4X3ACCC4W" alt="Pascal Logo" height=256px width="256px" /></a>
+</p> 
+
+images/icon.png
 
 Manage your **Pas2JS** Project/Code with Visual Studio Code. 
+
+<br>
 
 ## Features
 * Project Builder
@@ -21,19 +25,14 @@ Manage your **Pas2JS** Project/Code with Visual Studio Code.
 * Syntax Coloring
 * Diagnostics
 
+<br>
+
 ## Dependencies 
 CodeTools: https://drive.google.com/file/d/1QFvKgiUyOqOKpzsDvu4N801cYAdPiV-p/view?usp=sharing
 
 Pas2JS: https://wiki.freepascal.org/pas2js#Daily_Snapshots
 
-
-## Settings
-
-```json
-    "pas2js.codetools": "",
-    "pas2js.compiler": "",
-    "pas2js.compilerSourceDir": ""
-```  
+<br>
 
 ## Donating
 
