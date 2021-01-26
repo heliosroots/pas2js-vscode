@@ -1,0 +1,6 @@
+LICENSE AND COPYRIGHT INFORMATION ABOUT IMAGES USED IN PAS2JS-VSCODE
+--------------------------------------------------------------------
+
+Creative Commons CC Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0) http://creativecommons.org/licenses/by-nd/3.0/
+Author and source mentioned.
+- icon.png by Parmaja(https://github.com/parmaja/cliparts/tree/master/lazarus-logo)

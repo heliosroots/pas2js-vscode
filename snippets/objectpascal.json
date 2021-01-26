@@ -1,0 +1,200 @@
+{
+    "begin-end": {
+        "prefix": "begin-end",
+        "body": [
+            "begin",
+            "  $1",
+            "end;"
+        ],
+        "description": "begin-end"
+    },
+    "if-then-begin-end": {
+        "prefix": "if-then-begin-end",
+        "body": [
+            "if $1 then",
+            "begin",
+            "  $2",
+            "end;"
+        ],
+        "description": "if-then-begin-end"
+    },
+    "if-then-begin-end-else-begin-end": {
+        "prefix": "if-then-begin-end-else-begin-end",
+        "body": [
+            "if $1 then",
+            "begin",
+            "  $2",
+            "end",
+            "else",
+            "begin",
+            "  $3",
+            "end;"
+        ],
+        "description": "if-then-begin-end-else-begin-end"
+    },
+    "with-do-begin-end": {
+        "prefix": "with-do-begin-end",
+        "body": [
+            "with $1 do",
+            "begin",
+            "  $2",
+            "end;"
+        ],
+        "description": "with-do-begin-end"
+    },
+    "case-end": {
+        "prefix": "case-end",
+        "body": [
+            "case $1 of",
+            "  $2",
+            "end;"
+        ],
+        "description": "case-end"
+    },
+    "for-to-do-begin-end": {
+        "prefix": "for-to-do-begin-end",
+        "body": [
+            "for $1 := $2 to $3 do",
+            "begin",
+            "  $4",
+            "end;"
+        ],
+        "description": "for-to-do-begin-end"
+    },
+    "for-in-do-begin-end": {
+        "prefix": "for-in-do-begin-end",
+        "body": [
+            "for $1 in $2 do",
+            "begin",
+            "  $3",
+            "end;"
+        ],
+        "description": "for-in-do-begin-end"
+    },
+    "while-do-begin-end": {
+        "prefix": "while-do-begin-end",
+        "body": [
+            "while $1 do",
+            "begin",
+            "  $2",
+            "end;"
+        ],
+        "description": "while-do-begin-end"
+    },
+    "repeat-until": {
+        "prefix": "repeat-until",
+        "body": [
+            "repeat",
+            "  $1",
+            "until"
+        ],
+        "description": "repeat-until"
+    },
+    "try-finally-end": {
+        "prefix": "try-finally-end",
+        "body": [
+            "try",
+            "  $1",
+            "finally",
+            "  $2",
+            "end;"
+        ],
+        "description": "try-finally-end"
+    },
+    "try-except-end": {
+        "prefix": "try-except-end",
+        "body": [
+            "try",
+            "  $1",
+            "except", 
+            "  $2",
+            "end;"
+        ],
+        "description": "try-except-end"
+    },
+    "tclass-private-public-end": {
+        "prefix": "tclass-private-public-end",
+        "body": [
+            "T${1:Name} = class",
+            "private", 
+            "public",
+            "  constructor Create;",
+            "  destructor Destroy; override; $2",
+            "end;"
+        ],
+        "description": "tclass-private-public-end"
+    }, 
+    "constructor": {
+        "prefix": "constructor",
+        "body": [
+            "constructor Create(${1:Params}); ${2:override;}"
+        ],
+        "description": "constructor"
+    },
+    "destructor": {
+        "prefix": "destructor",
+        "body": [
+            "destructor Destroy; override;$0"
+        ],
+        "description": "destructor"
+    },
+    "function": {
+        "prefix": "function",
+        "body": [
+            "function ${1:Name}(${2:Params}):${3:TType;"
+        ],
+        "description": "function"
+    },
+    "procedure": {
+        "prefix": "procedure",
+        "body": [
+            "procedure ${1:Name}(${2:Params});"
+        ],
+        "description": "procedure"
+    }, 
+    "property-gettter-setter": {
+        "prefix": "property-gettter-setter",
+        "body": [
+            "property ${1:Name}: ${2:TType} read Get${1:Name} write Set${1:Name};"
+        ],
+        "description": "property-gettter-setter"
+    }, 
+    "function-begin-end": {
+        "prefix": "function-begin-end",
+        "body": [
+            "function ${1:Name}(${2:Params}):${3:TType};",
+            "begin",
+            "\t$0",
+            "end;"
+        ],
+        "description": "function-begin-end"
+    },
+    "procedure-begin-end": {
+        "prefix": "procedure-begin-end",
+        "body": [
+            "procedure ${1:Name}(${2:Params});",
+            "begin",
+            "  $0",
+            "end;"
+        ],
+        "description": "procedure-begin-end"
+    },
+    "unit-interface-implementation-end": {
+        "prefix": "unit-interface-implementation-end",
+        "body": [
+            "unit ${1:Name};",
+            "",
+            "{\\$mode objfpc}{\\$H+}",
+            "",
+            "interface",
+            "",
+            "uses",
+            "  Classes, SysUtils$2;",
+            "",
+            "implementation",
+            "",
+            "end."
+        ],
+        "description": "unit-interface-implementation-end"
+    }
+}
