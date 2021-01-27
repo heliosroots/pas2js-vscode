@@ -8,44 +8,44 @@
 </p>
 
 ## Settings
-![settings](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/settings.png) 
+![settings](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/settings.png) 
 
 ## Features
-* ### Project Builder
-![project build](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/projectbuild.gif) 
+* ### Project Builder  
+![project build](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/projectbuild.gif) 
 
 * ### Project Manager
-![project manager](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/projectmanager.gif) 
+![project manager](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/projectmanager.gif) 
 
 * ### Project Settings
-![project settings](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/projectsettings.png) 
+![project settings](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/projectsettings.png) 
 
 * ### Code Completion  
-![code completion](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/codecompletion.gif) 
+![code completion](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/codecompletion.gif) 
 
 * ### Code Definition 
-![code definition](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/codedefinition.gif) 
+![code definition](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/codedefinition.gif) 
 
 * ### Code Formatter
-![code fommater](images/help/codeformatter.gif) 
+![code fommater](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/codeformatter.gif) 
 
 * ### Code Navigation
-![code definition](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/codedefinition.gif) 
+![code definition](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/codedefinition.gif) 
 
 * ### Code Refactoring
-![code refactoring](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/coderefactoring.gif) 
+![code refactoring](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/coderefactoring.gif) 
 
 * ### Code Suggestion 
-![code suggestion](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/codesuggestion.gif) 
+![code suggestion](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/codesuggestion.gif) 
 
 * ### Snipptes
-![snipptes](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/snipptes.png)  
+![snipptes](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/snipptes.png)  
 
 * ### Syntax Coloring 
-![syntax coloring](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/syntaxcoloring.png)  
+![syntax coloring](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/syntaxcoloring.png)  
 
 * ### Diagnostics
-![diagnostics](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/diagnostics.png) 
+![diagnostics](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/diagnostics.png) 
 
 ## Dependencies 
 CodeTools: https://drive.google.com/file/d/1QFvKgiUyOqOKpzsDvu4N801cYAdPiV-p/view?usp=sharing
