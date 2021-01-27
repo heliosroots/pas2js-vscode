@@ -7,19 +7,22 @@
     <img src="https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/icon.png" alt="Logo" height=256px width="256px" /></a>
 </p>
 
+## Settings
+![compile](images/help/settings.png) 
+
 ## Features
-* Project Builder
-* Project Manager
-* Project Settings
-* Code Completion 
-* Code Definition 
-* Code Formatter
-* Code Navigation
-* Code Refactoring
-* Code Suggestion 
-* Snipptes
-* Syntax Coloring
-* Diagnostics
+* ### Project Builder
+* ### Project Manager
+* ### Project Settings
+* ### Code Completion 
+* ### Code Definition 
+* ### Code Formatter
+* ### Code Navigation
+* ### Code Refactoring
+* ### Code Suggestion 
+* ### Snipptes
+* ### Syntax Coloring
+* ### Diagnostics
 
 ## Dependencies 
 CodeTools: https://drive.google.com/file/d/1QFvKgiUyOqOKpzsDvu4N801cYAdPiV-p/view?usp=sharing
