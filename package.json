@@ -1,8 +1,8 @@
 {
 	"name": "pas2js-vscode",
 	"displayName": "pas2js-vscode",
-	"description": "Pas2JS for Visual Studio Code",
-	"version": "0.0.1",
+	"description": "Pas2JS for VSCode, creating, editing, refactoring, running, and reloading **Pas2JS** apps",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.52.0"
 	},

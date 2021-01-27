@@ -1,6 +1,6 @@
 # Pas2JS-VSCode
 
-### This **VSCode** extension adds support for effectively editing, refactoring, running, and reloading **Pas2JS** apps, as well as support for the **Object Pascal** programming language.
+### This **VSCode** extension adds support for effectively creating, editing, refactoring, running, and reloading **Pas2JS** apps, as well as support for the **Object Pascal** programming language.
 
 <p align="center"> 
   <a title="Learn more about Pascal" href="https://github.com/heliosroots/pas2js-vscode">
@@ -8,14 +8,14 @@
 </p>
 
 ## Features
-* ### Project Builder(F9)  
-![project build](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/projectbuild.gif) 
-
 * ### Project Manager
 ![project manager](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/projectmanager.gif) 
 
 * ### Project Settings
 ![project settings](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/projectsettings.png) 
+
+* ### Project Builder(F9)  
+![project build](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/projectbuild.gif) 
 
 * ### Code Completion(Ctrl+Shift+C)  
 ![code completion](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/codecompletion.gif) 
@@ -44,7 +44,7 @@
 * ### Diagnostics
 ![diagnostics](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/diagnostics.png)  
 
-## Settings
+* ### Settings
 ![settings](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/settings.png) 
 
 ## Dependencies 
@@ -68,7 +68,8 @@ Pas2JS team: https://wiki.freepascal.org/pas2js
 
 Parmaja: https://github.com/parmaja/cliparts 
 
+Wosi: http://omnipascal.com/
+
 ## License
 
-[MIT](LICENSE.md) &copy; heliosroots 
-heliosroots@gmail.com
+[MIT](LICENSE) &copy;2021 heliosroots

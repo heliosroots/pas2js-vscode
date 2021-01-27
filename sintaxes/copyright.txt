@@ -1,0 +1,5 @@
+LICENSE AND COPYRIGHT INFORMATION ABOUT IMAGES USED IN PAS2JS-VSCODE
+--------------------------------------------------------------------
+ 
+Author and source mentioned.
+- objectpascal.plist by Wosi(http://omnipascal.com/)
