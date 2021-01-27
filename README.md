@@ -8,21 +8,44 @@
 </p>
 
 ## Settings
-![compile](images/help/settings.png) 
+![settings](images/help/settings.png) 
 
 ## Features
 * ### Project Builder
+![project build](images/help/projectbuild.gif) 
+
 * ### Project Manager
+![project manager](images/help/projectmanager.gif) 
+
 * ### Project Settings
-* ### Code Completion 
+![project settings](images/help/projectsettings.gif) 
+
+* ### Code Completion  
+![code completion](images/help/codecompletion.gif) 
+
 * ### Code Definition 
+![code definition](images/help/codedefinition.gif) 
+
 * ### Code Formatter
+![code fommater](images/help/codeformatter.gif) 
+
 * ### Code Navigation
+![code definition](images/help/codedefinition.gif) 
+
 * ### Code Refactoring
+![code refactoring](images/help/coderefactoring.gif) 
+
 * ### Code Suggestion 
+![code suggestion](images/help/codesuggestion.gif) 
+
 * ### Snipptes
-* ### Syntax Coloring
+![snipptes](images/help/snipptes.png)  
+
+* ### Syntax Coloring 
+![syntax coloring](images/help/syntaxcoloring.png)  
+
 * ### Diagnostics
+![diagnostics](images/help/diagnostics.png) 
 
 ## Dependencies 
 CodeTools: https://drive.google.com/file/d/1QFvKgiUyOqOKpzsDvu4N801cYAdPiV-p/view?usp=sharing
