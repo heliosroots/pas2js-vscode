@@ -8,44 +8,44 @@
 </p>
 
 ## Settings
-![settings](images/help/settings.png) 
+![settings](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/settings.png) 
 
 ## Features
 * ### Project Builder
-![project build](images/help/projectbuild.gif) 
+![project build](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/projectbuild.gif) 
 
 * ### Project Manager
-![project manager](images/help/projectmanager.gif) 
+![project manager](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/projectmanager.gif) 
 
 * ### Project Settings
-![project settings](images/help/projectsettings.png) 
+![project settings](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/projectsettings.png) 
 
 * ### Code Completion  
-![code completion](images/help/codecompletion.gif) 
+![code completion](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/codecompletion.gif) 
 
 * ### Code Definition 
-![code definition](images/help/codedefinition.gif) 
+![code definition](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/codedefinition.gif) 
 
 * ### Code Formatter
 ![code fommater](images/help/codeformatter.gif) 
 
 * ### Code Navigation
-![code definition](images/help/codedefinition.gif) 
+![code definition](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/codedefinition.gif) 
 
 * ### Code Refactoring
-![code refactoring](images/help/coderefactoring.gif) 
+![code refactoring](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/coderefactoring.gif) 
 
 * ### Code Suggestion 
-![code suggestion](images/help/codesuggestion.gif) 
+![code suggestion](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/codesuggestion.gif) 
 
 * ### Snipptes
-![snipptes](images/help/snipptes.png)  
+![snipptes](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/snipptes.png)  
 
 * ### Syntax Coloring 
-![syntax coloring](images/help/syntaxcoloring.png)  
+![syntax coloring](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/syntaxcoloring.png)  
 
 * ### Diagnostics
-![diagnostics](images/help/diagnostics.png) 
+![diagnostics](https://github.com/heliosroots/pas2js-vscode/blob/main/images/help/diagnostics.png) 
 
 ## Dependencies 
 CodeTools: https://drive.google.com/file/d/1QFvKgiUyOqOKpzsDvu4N801cYAdPiV-p/view?usp=sharing
