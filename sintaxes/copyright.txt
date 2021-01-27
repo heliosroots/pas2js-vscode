@@ -1,4 +1,4 @@
-LICENSE AND COPYRIGHT INFORMATION ABOUT IMAGES USED IN PAS2JS-VSCODE
+LICENSE AND COPYRIGHT INFORMATION USED IN PAS2JS-VSCODE
 --------------------------------------------------------------------
  
 Author and source mentioned.
