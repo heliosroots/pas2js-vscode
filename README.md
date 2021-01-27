@@ -1,17 +1,14 @@
 # Pas2JS-VSCode
 
-### Manage your **Pas2JS** Project/Code with Visual Studio Code. 
+### This **VSCode** extension adds support for effectively editing, refactoring, running, and reloading **Pas2JS** apps, as well as support for the **Object Pascal** programming language.
 
-<p> 
+<p align="center"> 
   <a title="Learn more about Pascal" href="https://github.com/heliosroots/pas2js-vscode">
-    <img src="https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/icon.png" alt="Logo" height=256px width="256px" /></a>
+    <img src="https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/icon.png" alt="Logo" height=192px width="192px" /></a>
 </p>
 
-## Settings
-![settings](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/settings.png) 
-
 ## Features
-* ### Project Builder  
+* ### Project Builder(F9)  
 ![project build](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/projectbuild.gif) 
 
 * ### Project Manager
@@ -20,13 +17,13 @@
 * ### Project Settings
 ![project settings](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/projectsettings.png) 
 
-* ### Code Completion  
+* ### Code Completion(Ctrl+Shift+C)  
 ![code completion](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/codecompletion.gif) 
 
 * ### Code Definition 
 ![code definition](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/codedefinition.gif) 
 
-* ### Code Formatter
+* ### Code Formatter(Ctrl+D)
 ![code fommater](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/codeformatter.gif) 
 
 * ### Code Navigation
@@ -45,12 +42,18 @@
 ![syntax coloring](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/syntaxcoloring.png)  
 
 * ### Diagnostics
-![diagnostics](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/diagnostics.png) 
+![diagnostics](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/diagnostics.png)  
+
+## Settings
+![settings](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/settings.png) 
 
 ## Dependencies 
 CodeTools: https://drive.google.com/file/d/1QFvKgiUyOqOKpzsDvu4N801cYAdPiV-p/view?usp=sharing
 
 Pas2JS: https://wiki.freepascal.org/pas2js#Daily_Snapshots
+
+## Reporting Issues
+https://github.com/heliosroots/pas2js-vscode/issues
 
 ## Donating
 
