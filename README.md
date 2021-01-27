@@ -18,7 +18,7 @@
 ![project manager](images/help/projectmanager.gif) 
 
 * ### Project Settings
-![project settings](images/help/projectsettings.gif) 
+![project settings](images/help/projectsettings.png) 
 
 * ### Code Completion  
 ![code completion](images/help/codecompletion.gif) 
