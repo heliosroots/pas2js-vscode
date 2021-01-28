@@ -53,8 +53,8 @@ https://drive.google.com/drive/folders/1SMaQCb2tMDzI8XqFPYLrjVv6Uy0Fd6dw?usp=sha
 or download and compile Pas2JS from svn 
 https://svn.freepascal.org/svn/projects/pas2js/trunk/
 
-## Videos
-https://www.youtube.com/playlist?list=PLNygqcAmO7A1EP9JAJbLfRYpuNrIB38I
+## Videos 
+https://www.youtube.com/playlist?list=PLNygqcAmO7A1EP9JAJbLfRYpuNrIB38Io
 
 ## Reporting Issues
 https://github.com/heliosroots/pas2js-vscode/issues
