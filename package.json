@@ -1,8 +1,8 @@
 {
 	"name": "pas2js-vscode",
 	"displayName": "pas2js-vscode",
-	"description": "Pas2JS for VSCode, creating, editing, refactoring, running, and reloading **Pas2JS** apps",
-	"version": "1.0.0",
+	"description": "Pas2JS for VSCode, creating, editing, refactoring, running, and reloading \"Pas2JS\" apps",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
@@ -19,7 +19,7 @@
 		"lazarus",
 		"pas2js"
 	],
-	"license": "SEE LICENSE IN LICENSE.md",
+	"license": "SEE LICENSE IN ./LICENSE",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/heliosroots/pas2js-vscode"

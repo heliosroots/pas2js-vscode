@@ -48,9 +48,13 @@
 ![settings](https://raw.githubusercontent.com/heliosroots/pas2js-vscode/main/images/help/settings.png) 
 
 ## Dependencies 
-CodeTools: https://drive.google.com/file/d/1QFvKgiUyOqOKpzsDvu4N801cYAdPiV-p/view?usp=sharing
+https://drive.google.com/drive/folders/1SMaQCb2tMDzI8XqFPYLrjVv6Uy0Fd6dw?usp=sharing
+<br> 
+or download and compile Pas2JS from svn 
+https://svn.freepascal.org/svn/projects/pas2js/trunk/
 
-Pas2JS: https://wiki.freepascal.org/pas2js#Daily_Snapshots
+## Videos
+https://www.youtube.com/playlist?list=PLNygqcAmO7A1EP9JAJbLfRYpuNrIB38I
 
 ## Reporting Issues
 https://github.com/heliosroots/pas2js-vscode/issues
