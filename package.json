@@ -2,7 +2,7 @@
 	"name": "pas2js-vscode",
 	"displayName": "pas2js-vscode",
 	"description": "Pas2JS for VSCode, creating, editing, refactoring, running, and reloading \"Pas2JS\" apps",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
@@ -85,12 +85,12 @@
 				"title": "Pas2JS: Project - Build"
 			},
 			{
-				"command": "pas2js.projectNew",
-				"title": "Pas2JS: Project - New..."
+				"command": "pas2js.projectLoad",
+				"title": "Pas2JS: Project - Settings"
 			},
 			{
-				"command": "pas2js.projectLoadSettings",
-				"title": "Pas2JS: Project - Settings"
+				"command": "pas2js.projectNew",
+				"title": "Pas2JS: Project - New..."
 			},
 			{
 				"command": "pas2js.codeCompletion",
@@ -110,9 +110,9 @@
 				"command": "pas2js.projectBuild",
 				"key": "f9",
 				"when": "!inDebugMode"
-			}, 
+			},
 			{
-				"command": "pas2js.projectLoadSettings",
+				"command": "pas2js.projectLoad",
 				"key": "f10",
 				"when": "!inDebugMode"
 			},
@@ -120,7 +120,7 @@
 				"command": "pas2js.codeCompletion",
 				"key": "ctrl+shift+c",
 				"when": "editorTextFocus && !editorReadonly && editorLangId == 'objectpascal'"
-			}, 
+			},
 			{
 				"command": "pas2js.codeIndentation",
 				"key": "ctrl+d",
@@ -139,12 +139,12 @@
 				"pas2js.compiler": {
 					"type": "string",
 					"default": "",
-					"description": "Path to then \"Pas2JS\" executable."
+					"description": "Path to the \"Pas2JS\" executable."
 				},
-				"pas2js.compilerSourceDir": {
+				"pas2js.compilerSources": {
 					"type": "string",
 					"default": "",
-					"description": "Path to then \"Pas2JS\" source files directory."
+					"description": "Path to the source code \"Pas2JS\"."
 				}
 			}
 		}

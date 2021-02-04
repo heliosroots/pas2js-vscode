@@ -15,9 +15,9 @@ class CodeSuggestion {
             return [];
         };
         let suggestions = [];
-        for (let item of resp.data) {
-            // TODO: kind, detail...                            
+        for (let item of resp.data) {                          
             suggestions.push(new CompletionItem(item, undefined));
+            // TODO: kind, detail...  
         };
         return suggestions;
     };

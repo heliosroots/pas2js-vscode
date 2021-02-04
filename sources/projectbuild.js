@@ -1,17 +1,17 @@
-const { showErrorMessage, execTask } = require("./utils");
+const { showError, execTask } = require("./utils");
 const { settings, execCodetools } = require("./base");
 
 const projectBuild = async () => { 
     if (!settings.projectSettings) {
-        return showErrorMessage("No Project Settings selected");
+        return showError("No project settings selected.");
     };
     let resp = await execCodetools({
         action: "projectCommandLine"
     });
     if (!resp.success) {
-        return showErrorMessage("Project building failed => " + (resp.data ? resp.data : resp));
+        return showError("Project building failed => " + (resp.data ? resp.data : resp));
     };
-    // build
+    // Compile
     execTask("Build", "Pas2JS", resp.data, ["$pas2js"]);
 };
 

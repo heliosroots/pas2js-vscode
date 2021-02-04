@@ -1,20 +1,20 @@
-const { languages, commands, workspace } = require("vscode");
-const { log } = require("./utils");
+const { languages, commands, workspace } = require("vscode"); 
 const { updateSettings } = require("./base"); 
-const { projectNew } = require("./projectnew");
 const { projectBuild } = require("./projectbuild");  
-const { projectLoadSettings } = require("./projectload");
+const { projectNew } = require("./projectnew");
+const { projectLoad } = require("./projectload");
 const { codeCompletion } = require("./codecompletion");
 const { CodeDefinition } = require("./codedefinition");
 const { codeIndentation } = require("./codeindentation");
 const { codeRefactoring } = require("./coderefactoring");
 const { CodeSuggestion } = require("./codesuggestion"); 
 
-const activate = (context) => {
-    log("Pas2JS-VSCode active");
+const activate = (context) => { 
+    console.log("Pas2JS-VSCode active");
 
-    // update
+    // Initialize
     updateSettings();
+    projectLoad();
 
     // events
     context.subscriptions.push([
@@ -25,9 +25,9 @@ const activate = (context) => {
 
     // command
     context.subscriptions.push([
-        commands.registerCommand("pas2js.projectNew", projectNew),
         commands.registerCommand("pas2js.projectBuild", projectBuild),
-        commands.registerCommand("pas2js.projectLoadSettings", projectLoadSettings), 
+        commands.registerCommand("pas2js.projectLoad", projectLoad), 
+        commands.registerCommand("pas2js.projectNew", projectNew),
         commands.registerCommand('pas2js.codeCompletion', codeCompletion),
         commands.registerCommand('pas2js.codeIndentation', codeIndentation),
         commands.registerCommand('pas2js.codeRefactoring', codeRefactoring)
